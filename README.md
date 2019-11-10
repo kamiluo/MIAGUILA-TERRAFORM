@@ -1,6 +1,6 @@
 # MiAguila Terraform
 ## Estructura
-![Estructura][1]
+![Estructura](https://github.com/kamiluo/MIAGUILA-TERRAFORM/raw/master/images/MiAguila.vpd.png)
 ## Requerimientos:
 - Terraform 0.12.13.
 - Linux (Preferiblemente ubuntu).
